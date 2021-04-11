@@ -1,6 +1,7 @@
-### Hi there 👋
+### OLá! 👋
 
 <!--
+### Hi there 👋
 **RamonLean/RamonLean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
   Sempre estudei segurança da informação como Hobby desde a adolencência, comecei a programar por isso. Tive a oportunidade de participar da olimpiáda do conhecimento SENAI , em manufatura integrada, com a união de automação/mecânica/computação.
-	Atuei na indústria nessa mesma área, mas depois de experimentar as possibilidades, eu tenho certeza que quero trabalhar com segurança da informação, quero profissionalizar o meu Hobby. Estou aos poucos postando algumas coisas que desenvolvi aqui no github, CTF (Capture the Flag), Scanners de vulnerabilidade, Ferramentas de ataque etc.
+	Atuei na indústria nessa mesma área, mas depois de experimentar as possibilidades, eu tenho certeza que quero trabalhar com segurança da informação, quero profissionalizar o meu Hobby. Estou aos poucos postando algumas coisas que desenvolvi aqui no github: CTF (Capture the Flag), Scanners de vulnerabilidade, Ferramentas de ataque etc.
 
 Sou formado em Engenharia Mecânica.
