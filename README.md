@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-        Sempre estudei segurança da informação como Hobby desde a adolescência, comecei a programar por isso. Tive a oportunidade de participar da olimpíada do conhecimento SENAI , em manufatura integrada, com a união de automação/mecânica/computação.
-	Atuei na indústria nessa mesma área, mas depois de experimentar as possibilidades, eu tenho certeza que quero trabalhar com segurança da informação, quero profissionalizar o meu Hobby. Estou aos poucos postando algumas coisas que desenvolvi, aqui no GitHub: CTF (Capture the Flag), Scanners de vulnerabilidade, Ferramentas de ataque etc.
+      Sempre estudei segurança da informação como Hobby desde a adolescência, comecei a programar por isso. Tive a oportunidade de participar da olimpíada do conhecimento SENAI , em manufatura integrada, com a união de automação/mecânica/computação.
+      
+      Atuei na indústria nessa mesma área, mas depois de experimentar as possibilidades, eu tenho certeza que quero trabalhar com segurança da informação, quero profissionalizar o meu Hobby. Estou aos poucos postando algumas coisas que desenvolvi, aqui no GitHub: CTF (Capture the Flag), Scanners de vulnerabilidade, Ferramentas de ataque etc.
