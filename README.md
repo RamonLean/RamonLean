@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-      Gosto de estudar segurança da informação. Estou aos poucos postando algumas coisas que desenvolvi e estou desenvolvendo, aqui no GitHub: CTF (Capture the Flag), Scanners de vulnerabilidade, Ferramentas de ataque,análise de dados etc.
+      Gosto de estudar segurança da informação.
+      Estou aos poucos postando algumas coisas que desenvolvi e estou desenvolvendo, aqui no GitHub: 
+      CTF (Capture the Flag), Scanners de vulnerabilidade, Ferramentas de ataque,análise de dados etc.
