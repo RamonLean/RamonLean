@@ -21,10 +21,12 @@ Welcome to my GitHub profile! I'm a Cybersecurity professional. Here you'll find
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+<!--
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramonlean&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+-->
 ## 🏆 GitHub Trophies
 
 [![Your Name's Trophies](https://github-profile-trophy.vercel.app/?username=ramonlean)](https://github.com/ryo-ma/github-profile-trophy)
