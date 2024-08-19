@@ -27,10 +27,13 @@ Welcome to my GitHub profile! I'm a Cybersecurity professional. Here you'll find
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramonlean&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 -->
+
+<!--
 ## 🏆 GitHub Trophies
 
 [![Your Name's Trophies](https://github-profile-trophy.vercel.app/?username=ramonlean)](https://github.com/ryo-ma/github-profile-trophy)
 
+-->
 ## 🚀 Most Used Languages
 
 ![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonlean&layout=compact&theme=radical)
