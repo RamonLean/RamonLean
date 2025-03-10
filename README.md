@@ -2,7 +2,7 @@
 
 # Hello!👋
 
-Welcome to my GitHub profile! I'm a Cybersecurity professional. Here you'll find some of my latest work and contributions.
+Welcome to my GitHub profile! Here you'll find some of my latest work and contributions.
 <!-- 
 ## 🌟 About Me
 
