@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here you'll find some of my latest work and contri
 
 ## 🧠 Skills
 
-- 💻 **Software Developer** – Development of scripts and automations focused on information security.
+- 💻 **Software Development** – Development of scripts and automations focused on information security.
 - ☁️ **Cloud Security (AWS)** – Implementation of secure practices in cloud environments.
 - 🕵️‍♂️ **Red Team** – Realistic offensive simulations to assess security resilience.
 - 🛡️ **Blue Team** – Monitoring and active defense against cyber threats.
