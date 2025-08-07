@@ -25,12 +25,13 @@ Welcome to my GitHub profile! Here you'll find some of my latest work and contri
 
 ## 🧠 Skills
 
-- 💻 **Software Development** – Development of scripts and automations focused on information security.
-- 🛡️ **Pentest** – Penetration testing to identify and exploit system vulnerabilities.
-- ⚔️ **Red Team** – Realistic offensive simulations to assess security resilience.
-- 🛡️ **Blue Team** – Monitoring and active defense against cyber threats.
+- 💻 **Software Developer** – Development of scripts and automations focused on information security.
 - ☁️ **Cloud Security (AWS)** – Implementation of secure practices in cloud environments.
+- 🕵️‍♂️ **Red Team** – Realistic offensive simulations to assess security resilience.
+- 🛡️ **Blue Team** – Monitoring and active defense against cyber threats.
+- 🧪 **Pentest** – Penetration testing to identify and exploit system vulnerabilities.
 - 🌐 **Networking** – Configuration, monitoring, and troubleshooting of computer networks and communication protocols.
+
 
 <!--
 ## 📈 GitHub Stats
