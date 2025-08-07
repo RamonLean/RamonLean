@@ -17,9 +17,20 @@ Welcome to my GitHub profile! Here you'll find some of my latest work and contri
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 🧠 Skills
+
+- 💻 **Software Development** – Development of scripts and automations focused on information security.
+- 🛡️ **Pentest** – Penetration testing to identify and exploit system vulnerabilities.
+- ⚔️ **Red Team** – Realistic offensive simulations to assess security resilience.
+- 🛡️ **Blue Team** – Monitoring and active defense against cyber threats.
+- ☁️ **Cloud Security (AWS)** – Implementation of secure practices in cloud environments.
+- 🌐 **Networking** – Configuration, monitoring, and troubleshooting of computer networks and communication protocols.
 
 <!--
 ## 📈 GitHub Stats
